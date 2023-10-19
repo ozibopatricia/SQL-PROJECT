@@ -52,10 +52,12 @@
 
 ![](SUBQUERY2.PNG)
 
-# Using sum function
+# USING SUM FUNCTION
 ## Return the total sum of the yearly increment
 
-![](SUMY)
+![](SUMYEARLYINCREMENT.PNG)
+
+
 
 
 
